@@ -19,3 +19,6 @@
 - Modify the Map to be in a Container as in the Mockup
 - Sort the countries Data
 - Make sure you are updated with the app
+
+# october 2 
+-no homework yay !!!
